@@ -46,7 +46,7 @@ prometheus-client==0.4.2
 prompt-toolkit==2.0.7
 protobuf==3.6.1
 pydot==1.2.4
-Pygments==2.2.0
+Pygments==2.7.4
 pykitti==0.3.0
 pylint==2.1.1
 pyparsing==2.3.0
